@@ -1,0 +1,25 @@
+# PHP related
+/vendor/
+/composer.lock
+
+# Environment files
+.env
+.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Log and temporary files
+*.log
+tmp/
+cache/
+
+# PHPStorm
+*.iml
